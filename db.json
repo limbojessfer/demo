@@ -8,7 +8,7 @@
     { "id": 1, "title": "legacy", "image": "/assets/images/home/slots-machine/Slots Thumbnails/thumb-1.jpg", "link": "#link" },
     { "id": 1, "title": "legacy", "image": "/assets/images/home/slots-machine/Slots Thumbnails/thumb-1.jpg", "link": "#link" },
   ],
-  "betsoft": {
+  "betsoft": 
     { "id": 1, "title": "legacy", "image": "/assets/images/home/slots-machine/Slots Thumbnails/thumb-1.jpg", "link": "#link" }
     
   }
