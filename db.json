@@ -1,14 +1,15 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "ag": [
+    { "id": 1, "title": "legacy", "image": "/assets/images/home/slots-machine/Slots Thumbnails/thumb-1.jpg", "link": "#link" },
+    { "id": 1, "title": "legacy", "image": "/assets/images/home/slots-machine/Slots Thumbnails/thumb-1.jpg", "link": "#link" },
+    { "id": 1, "title": "legacy", "image": "/assets/images/home/slots-machine/Slots Thumbnails/thumb-1.jpg", "link": "#link" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "bbn": [
+    { "id": 1, "title": "legacy", "image": "/assets/images/home/slots-machine/Slots Thumbnails/thumb-1.jpg", "link": "#link" },
+    { "id": 1, "title": "legacy", "image": "/assets/images/home/slots-machine/Slots Thumbnails/thumb-1.jpg", "link": "#link" },
   ],
-  "profile": {
-    "name": "typicode"
+  "betsoft": {
+    { "id": 1, "title": "legacy", "image": "/assets/images/home/slots-machine/Slots Thumbnails/thumb-1.jpg", "link": "#link" }
+    
   }
 }
